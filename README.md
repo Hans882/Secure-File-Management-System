@@ -1,4 +1,4 @@
-## Secure File Management System
+# Secure File Management System
 
 A Python-based secure file management system with user roles (Admin, User, Viewer), AES encryption for file confidentiality, password hashing using Scrypt, and role-based access control.
 
